@@ -1,0 +1,6 @@
+framework module HJCornerRadius {
+  umbrella header "HJCornerRadius-umbrella.h"
+
+  export *
+  module * { export * }
+}
